@@ -29,9 +29,9 @@ Choose your platform and get started in minutes:
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Get Windows installer (.exe)](./releases/ClientDock_beta_windows_x64_setup.exe) |
-| **macOS** | [Get macOS installer (.dmg)](./releases/ClientDock_beta_macos_aarch64.dmg) |
-| **Linux** | [AppImage (.AppImage)](./releases/ClientDock_beta_aarch64.AppImage) / [Deb (.deb)](./releases/ClientDock_beta_arm64.deb) |
+| **Windows** | [Get Windows installer (.exe)](https://github.com/CraftIndie/clientdock-releases/raw/master/releases/ClientDock_beta_windows_x64_setup.exe) |
+| **macOS** | [Get macOS installer (.dmg)](https://github.com/CraftIndie/clientdock-releases/raw/master/releases/ClientDock_beta_macos_universal.dmg) |
+| **Linux** | [AppImage (.AppImage)](https://github.com/CraftIndie/clientdock-releases/raw/master/releases/ClientDock_beta_aarch64.AppImage) / [Deb (.deb)](https://github.com/CraftIndie/clientdock-releases/raw/master/releases/ClientDock_beta_arm64.deb) |
 
 <details>
 <summary><strong>Installation Instructions</strong></summary>
